@@ -1,0 +1,25 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+.bsp
+project/
+target/
+
+# Ignore Gradle build output directory
+build
+
+spark-warehouse
+
+*.iml
+
+.idea
+
+derby.log
+
+metastore_db
+
+*.DS_Store
+
+*/.DS_Store
+
+*.crc
+_SUCCESS
