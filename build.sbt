@@ -16,6 +16,9 @@ libraryDependencies += "org.apache.flink" % "flink-core" % "1.16.0" % "provided"
 libraryDependencies += "org.apache.flink" %% "flink-streaming-scala" % "1.16.0" % "provided"
 // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
 libraryDependencies += "org.apache.logging.log4j" % "log4j-core" % "2.11.1"
+// https://mvnrepository.com/artifact/org.json4s/json4s-jackson
+libraryDependencies += "org.json4s" %% "json4s-jackson" % "3.6.10"
+
 
 
 
